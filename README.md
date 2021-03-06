@@ -31,4 +31,8 @@ Then publish your package by running
 
 - `npm publish`
 
+Testing locally
+
+- `npm link` in other project `npm link (name_of_package)`
+
 ### Happy Building ♡
